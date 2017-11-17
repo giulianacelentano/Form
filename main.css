@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-position: center top;
+  background-size: cover;
+  margin-left: 2px;
+}
+
+form {
+	border: 1px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+nav {
+  background-color: #FFF;
+}
+
+
+.page-title {
+  text-align: center;
+  font-weight: 100;
+  font-family: garamond;
+  
+}
+
+.page-description {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
+  font-style: italic;
+  background: #FAF4FB;
+}
+
+
