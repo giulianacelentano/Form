@@ -1,8 +1,8 @@
 body {
-  font-family: 'Lato', sans-serif;
-  background-position: center top;
-  background-size: cover;
-  margin-left: 2px;
+	font-family: 'Lato', sans-serif;
+	background-position: center top;
+	background-size: cover;
+	margin-left: 2px;
 }
 
 form {
@@ -13,24 +13,24 @@ form {
 }
 
 nav {
-  background-color: #FFF;
+	background-color: #FFF;
 }
 
 
 .page-title {
-  text-align: center;
-  font-weight: 100;
-  font-family: garamond;
-  
+	text-align: center;
+	font-weight: 100;
+	font-family: garamond;
+	
 }
 
 .page-description {
-  border: 1px solid #000;
-  margin: 2px;
-  text-align: center;
-  padding: 30px;
-  font-style: italic;
-  background: #FAF4FB;
+	border: 1px solid #000;
+	margin: 2px;
+	text-align: center;
+	padding: 30px;
+	font-style: italic;
+	background: #FAF4FB;
 }
 
 
